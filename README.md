@@ -1,12 +1,12 @@
 # Vinh's Skorpion VS-22 Lower Receiver
 
 #### Author
-FreeMenDontAsk
-nguyenkvvn
+* Original design by FreeMenDontAsk
+* This remix by nguyenkvvn
 
 #### Version
-1.0 - FMDA
-v0.01 - nguyenkvvn
+* 1.0 - FMDA
+* v0.01 - nguyenkvvn
 
 This is the VS-22 receiver, based on the VZ-61 Lower Receiver by FreemenDontAsk. It is remixed *specifically* for the Czech Small Arms' .22LR Conversion Kit, as those differ from surplus spec kits just enough to require a revision. Changes include fitment issues for the reciever and magazine.
 
