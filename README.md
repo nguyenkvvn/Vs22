@@ -13,7 +13,7 @@ This is the VS-22 receiver, based on the VZ-61 Lower Receiver by FreemenDontAsk.
 This revision also includes a 1913 rail option on the top of the reciever, with 1913 brace mounting options.
 
 #### Parts Required 
-* Czech Small Arms' (Vz. 61 .22LR Universal Threaded Conversion Kit)[https://www.czechpoint-usa.com/22lr-vz-61-universal-threaded-conversion-kit/product]
+* Czech Small Arms' [Vz. 61 .22LR Universal Threaded Conversion Kit](https://www.czechpoint-usa.com/22lr-vz-61-universal-threaded-conversion-kit/product)
 * AR-15 fire control group
 * Vz61 Magazine Release Button, with spring
 * VZ61 Bolt Catch Lever, with spring *(optional)*
