@@ -6,7 +6,7 @@ nguyenkvvn
 
 #### Version
 1.0 - FMDA
-v0.01 - nguyenkvvn
+v0.02 - nguyenkvvn
 
 This is the VS-22 receiver, based on the VZ-61 Lower Receiver by FreemenDontAsk. It is remixed *specifically* for the Czech Small Arms' .22LR Conversion Kit, as those differ from surplus spec kits just enough to require a revision. Changes include fitment issues for the reciever and magazine.
 
@@ -28,6 +28,14 @@ This revision also includes a 1913 rail option on the top of the reciever, with 
 Aside from the complete removal of supports, there is no post-processing required.
 
 If you want to save a few dollars, you can use a drill to bore out the ejector rod hole (above the mag release) and snip a 3mm aluminum rod to retain the magazine release.
+
+#### Changelog
+
+v0.02 - Public Beta
+* Revised fitment on front pin, magwell, and magazine release
+
+v0.01 - Public Beta
+* Initial beta
 
 #### License
 
