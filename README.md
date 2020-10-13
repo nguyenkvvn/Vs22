@@ -6,7 +6,7 @@ nguyenkvvn
 
 #### Version
 * 1.0 - FMDA
-* v1.00 - nguyenkvvn
+* v1.00a - nguyenkvvn
 
 This is the VS-22 receiver, based on the VZ-61 Lower Receiver by FreemenDontAsk. It is remixed *specifically* for the Czech Small Arms' .22LR Conversion Kit, as those differ from surplus spec kits just enough to require a revision. Changes include fitment issues for the reciever and magazine.
 
@@ -31,6 +31,9 @@ If you want to save a few dollars, you can use a drill to bore out the ejector r
 
 #### Changelog
 
+v1.00a - Documentation Update
+* Documentation now includes "no rehosting" blurb.
+
 v1.00 - Initial Release
 * Refreshed step files and native export
 
@@ -42,9 +45,11 @@ v0.01 - Public Beta
 
 #### License
 
-#### Vinh's Stipulations
+MIT License
+
+##### Vinh's Stipulations in addition to MIT License
 * I require you do not charge others for access, nor rehost outside of personal, private archives. This introduces the possibility of stale files and out-of-date shares, which may be dangerous of a critical fix/patch distribution is required.
 * Official sources shall only include Vinh's GitHub (@nguyenkvvn), and Deterrence Dispensed's LBRY archives. (Hot linking is perfectly okay!)
 
-MIT License
+
 
