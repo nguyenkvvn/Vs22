@@ -42,5 +42,9 @@ v0.01 - Public Beta
 
 #### License
 
+#### Vinh's Stipulations
+* I require you do not charge others for access, nor rehost outside of personal, private archives. This introduces the possibility of stale files and out-of-date shares, which may be dangerous of a critical fix/patch distribution is required.
+* Official sources shall only include Vinh's GitHub (@nguyenkvvn), and Deterrence Dispensed's LBRY archives. (Hot linking is perfectly okay!)
+
 MIT License
 
